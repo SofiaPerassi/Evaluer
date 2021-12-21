@@ -1,0 +1,537 @@
+body{
+    background-color:#ededed;
+    color: #313332;
+    margin: 0;
+    padding: 0;
+    font-family: raleway;
+  	font-size: 13px;
+    line-height: 1.4em;
+    text-align: justify;
+    list-style: none;
+}
+
+h3{
+    font-weight: 900;
+}
+
+.titulochico{
+    font-weight: 400;
+}
+
+.afip{
+    height: 90%;
+}   
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #00833d;
+  overflow: hidden;
+  width: 100%;
+}
+
+/* Style the links inside the navigation bar */
+.topnav li {
+  float: right;
+}
+
+.topnav li a {
+  text-align: center;
+  padding: 24px 16px;
+  display: block;
+  float: right;
+  list-style: none;
+  font-weight: 600;
+  color: #ededed;
+  text-decoration: none;
+}
+
+/* Change the color of links on hover */
+.topnav li a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.logo{
+    height: 70px;
+    width: auto;
+    padding: 5px;
+    float: left;
+}
+
+footer{
+    background-color: #313332;
+    color: #ededed;
+    text-align: center;
+}  
+
+.cuadro{
+    background-color: #313332;
+    color: #ededed;
+    padding: 10px;
+    overflow: hidden;
+    width: 40%;
+    line-height: 2px;
+    padding-left: 20px;
+    height: 5%;
+}
+
+.cuadro1{
+    background-color: #313332;
+    color: #ededed;
+    padding: 10px;
+    overflow: hidden;
+    width: 40%;
+    line-height: 2px;
+    padding-left: 20px;
+    float: right;
+}
+
+.textocuadro{
+    margin-left: 50px;
+    width: 40%;
+    text-align: justify;
+    line-height: 6px;
+    padding-top: 20px;
+    font-size: 17px;
+}
+
+h4{
+    color: #00833d;
+    display: inline;
+}
+
+.verde { 
+    width: 30px;
+    background-color: #00833d;
+    float: left;
+    color:#00833d;
+    padding: 10px;
+    overflow: hidden;
+    line-height: 2px;
+  }
+
+.verde1 { 
+    width: 30px;
+    background-color: #00833d;
+    float: right;
+    color:#00833d;
+    padding: 10px;
+    overflow: hidden;
+    line-height: 2px;
+  } 
+
+.textocuadro1{
+    width: 40%;
+    text-align: justify;
+    line-height: 6px;
+    padding-top: 20px;
+    font-size: 17px;
+    padding-right: 5%;
+    float: right;
+    clear: both;
+
+}  
+
+.centrado{
+    text-align: justify;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5px;
+    padding-bottom: 30px;
+}  
+
+h1{
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.area1{
+    background-color: #313332;
+    color: #ededed;
+    padding: 10px;
+    overflow: hidden;
+    margin-top: 20px;
+    height: fit-content;
+}
+
+.area2{
+    background-color: #00833d;
+    color: #ededed;
+    padding: 10px;
+    overflow: hidden;
+    margin-top: 20px;
+    height: fit-content;
+}
+.area3{
+    background-color: #838383;
+    color: #ededed;
+    padding: 10px;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: fit-content;
+}
+
+.textoarea{
+    padding: 10px;
+    float: right;
+    text-align: justify;
+    padding-left: 20px;
+    width: 80%;
+}
+
+.tituloarea{
+    float: left;
+    width: 15%;
+    padding: 15px;
+}
+
+.textocentrado{
+    text-align: center;
+}
+
+.equipo{
+    padding-left: 20%;
+    float: left;
+    list-style: none;
+}
+
+.equipo1{
+    padding-right: 20%;
+    float: right;
+    list-style: none;
+}
+
+.imagenes{
+    display: inline;
+}
+
+.subrayado{
+    background-image:linear-gradient(#00833d, #00833d);
+    background-position:bottom center;
+    background-size:20% 3px;
+    background-repeat:no-repeat;
+    padding-bottom: 10px;
+    text-align: center;
+    border-bottom: 10px;
+    padding-top: 40px;
+}
+.subrayado1{
+    background-image:linear-gradient(#00833d, #00833d);
+    background-position:bottom center;
+    background-size:20% 3px;
+    background-repeat:no-repeat;
+    padding-bottom: 16px;
+    text-align: center;
+    border-bottom: 10px;
+}
+
+.nombre{
+    color: #313332;
+    text-align: center;
+}
+
+.ing{
+    color:#00833d;
+}
+
+.info{
+    background-image:linear-gradient(#00833d, #00833d);
+    background-position:bottom left;
+    background-size:110% 1px;
+    background-repeat:no-repeat;
+    padding-bottom: 10px;
+}
+
+.caja{
+    border: 1px solid #00833d;
+    width: 300px;
+    height: 100px;
+}
+
+.wpp{
+    float: right;
+}
+ 
+.wpp img{
+  width: 90%;
+}
+
+.eye{
+    position:absolute;
+    top: 26.5%;
+    right: 0px;
+    z-index: 1;
+  }
+  
+  .heaven
+  {
+    position:absolute;
+    width:100%;
+    z-index: -1;
+  }
+.eye2{
+    position:absolute;
+    top: 26.5%;
+    left: 0px;
+    z-index: 1;
+  }  
+
+* {box-sizing: border-box}  
+
+/* Slideshow container */
+.slideshow-container {
+    max-width: 3000px;
+    position: relative;
+    margin: auto;
+    padding-top: 50px;
+  }
+  
+  /* Hide the images by default */
+  .mySlides {
+    display: none;
+  }
+  
+  /* Next & previous buttons */
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 54%;
+    width: auto;
+    margin-top: -22px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #ededed;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+
+  .prev{
+    left: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover, .next:hover {
+    background-color: #00833d;
+  }
+  
+  /* Number text (1/3 etc) */
+  .numbertext {
+    color: #313332;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 8px 12px;
+    position: absolute;
+    top: 70px;
+  }
+
+  .numbertext1 {
+    color: #313332;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    padding-left: 49%;
+    position: absolute;
+    top: 70px;
+  }
+  
+  /* The dots/bullets/indicators */
+  .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  .active, .dot:hover {
+    background-color: #717171;
+  }
+  
+  /* Fading animation */
+  .fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+  
+  @-webkit-keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+  
+  @keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+  
+  /* On smaller screens, decrease text size */
+  @media only screen and (max-width: 450px) {
+    .prev, .next,.text, body {font-size: 11px}
+    body, .centrado {text-align: center; padding-left: 2px; 
+      padding-right: 2px; width: 100%; font-size: 10px;}
+    h1{
+      font-size: 20px;
+      font-weight: 700;
+    }
+    .textocuadro, .textocuadro1{
+      font-size: 11px;
+      padding-left: 0px;
+    }
+    .wpp img{
+      width: 70%;
+    }
+  }
+  
+  @media only screen and (max-width: 900px){
+    .textocuadro, .titulochico{
+      float: none;
+      width: 100%;
+      margin: none;
+      padding: 2px;
+    }
+    .textocuadro1{
+      float: none;
+      width: 100%;
+      margin: none;
+      padding: 2px;
+      padding-left: 20%;
+      display: block;
+    }
+
+    .equipo, .equipo1{
+      text-align: center;
+      display: block;
+      width: 100%;
+      margin: auto;
+      padding: 10%;
+    }
+    .cuadro, .cuadro1{
+      width: 80%;
+    }
+    .area1, .area2, .area3{
+      height: fit-content;
+    }
+    .textoarea{
+      padding: 2px;
+      font-size: 11px;
+      float: none;
+      width: 100%;
+    }
+    .tituloarea{
+      font-size: 16px;
+      padding-right: 5px;
+      float: none;
+    }
+    .mensaje {
+      padding-bottom: 50px;
+      align-items: center;
+    }
+    .ultimo{
+      padding-top: 200px;
+    }
+
+  }
+
+  @media only screen and (min-width: 901px) and (max-width: 1200px){
+    .textocuadro, .textocuadro1{
+      width: 70%;
+    }
+    .cuadro, .cuadro1{
+      width: 70%;
+    }
+  }
+  
+.ampliar{
+    width: 24%;
+    padding: 35px;
+}  
+
+.contacto{
+    overflow: hidden;
+}
+
+input[type=text], select, textarea {
+    width: 200px; 
+    padding: 12px; 
+    border: 1px solid #00833d; 
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px; 
+    resize: vertical
+  }
+  input[type=submit] {
+    background-color: #00833d;
+    color: #ededed;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+
+  /* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 60px;
+}
+
+.mensaje{
+  height: 200px;
+}
+
+.ultimo{
+  border-collapse: collapse;
+}
+.proy{
+  text-align: center; 
+  padding: 40px; 
+  line-height: 8px;
+}
+
+/*<?php
+/**
+ * The template for displaying the footer.
+ *
+ * Contains the body & html closing tags.
+ *
+ * @package HelloElementor
+ */
+
+/*if ( ! defined( 'ABSPATH' ) ) {
+	exit; // Exit if accessed directly.
+}
+
+if ( ! function_exists( 'elementor_theme_do_location' ) || ! elementor_theme_do_location( 'footer' ) ) {
+	get_template_part( 'template-parts/footer' );
+}
+?>
+
+<?php wp_footer(); ?>*/
